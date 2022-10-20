@@ -4,6 +4,7 @@ Discrete Elliptic Curve Over a Finite Field
 The EllipticCurve.py works with Field.py to assign prime field elements to a elliptic curve point.
 
 Example:
+
 import Field
 import EllipticCurve
 prime = 223
@@ -13,6 +14,7 @@ b = Field.Field(7, prime)
 x = Field.Field(47, prime)
 y = Field.Field(71, prime)
 p = EllipticCurve.ECPoint(x,y,a,b)
+
 print(x)
 "FieldElement_223(47)"
 
