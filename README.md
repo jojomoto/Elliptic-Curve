@@ -1,5 +1,5 @@
 # Elliptic-Curve
-Discrete Elliptic Curve Over a Finite Field
+Elliptic Curve Over a Finite Field
 
 The EllipticCurve.py works with Field.py to assign prime field elements to a elliptic curve point.
 
